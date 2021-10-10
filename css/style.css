@@ -1,3 +1,15 @@
 body {
-  background-color: #333333,
+  background-color: #0d0d0d;
+  font-size: 19px;
+  font-family: system-ui;
+}
+
+h1 {
+  color: magenta;
+  font-size: 28px
+
+}
+
+p {
+  color: blue
 }
